@@ -239,7 +239,7 @@ export default function MainSection() {
                 );
               })}
             </Flex>
-            <HStack display={{ base: "none", md: "block" }}>
+            <HStack>
               <Text fontSize="11px" fontWeight="medium" color="gray.300">
                 Board View
               </Text>
